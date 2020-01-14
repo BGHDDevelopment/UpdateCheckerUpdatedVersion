@@ -1,0 +1,3 @@
+name: Main
+version: ${project.version}
+main: net.noodles.updatechecker.main.Main
